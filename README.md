@@ -11,6 +11,4 @@ I created an online Portfolio as a small project in which I thought would be int
 ![image](https://github.com/mholtz15/Online-Portfolio/assets/157908872/99d14a50-a548-43d2-99e6-f20e1bfd3bc0) 
 ![image](https://github.com/mholtz15/Online-Portfolio/assets/157908872/5839109d-2733-4336-ba9b-17b8d65d72e6)
 <br>
-
-
-
+The project is not completed as yet - which explains why you can see that the information on my skills - however I jus wanted to showcase what it looks to users on the website. All buttons, links and pages work as intended.
